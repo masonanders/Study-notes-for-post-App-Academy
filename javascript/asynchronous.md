@@ -16,6 +16,6 @@ An analogy could be a sit-down restaurant. You do not have to wait for others to
 
 It is important to note that an asynchronous doesn't mean that two things are happening at once (multi-threaded). It only means that the language can switch between processes if they have an event scheduled for a future time. Kind of like a singly staffed restaurant.
 
-JavaScript is a singly-threaded, asynchronous language.
+JavaScript is a singly-threaded language with asynchronous capabilities.
 
 Resources: https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript
