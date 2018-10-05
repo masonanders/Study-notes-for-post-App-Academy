@@ -110,3 +110,65 @@ In this case the answer will be
 0.30000000000000004
 false
 ```
+
+---
+
+Q: How do we define a graph mathematically?
+
+---
+
+Q: What is the difference between directed, undirected, weighted, and unweighted?
+
+---
+
+Q: Give an example of various types of graphs (Weighted Undirected, Unweighted Directed, Unweighted Undirected, etc.)
+
+---
+
+Q: What makes a graph a simple graph? What attributes would make it not simple?
+
+---
+
+Q: What is the maximum number of edges in a directed simple graph? Undirected simple graph? Answer should be in terms of `N`
+
+---
+
+Q: Describe the levels of connectivity a graph can have (strongly connected, weakly connected).
+
+---
+
+Q: What are cycles?
+
+---
+
+Q: What are some naive ways we can store and traverse graphs? Be able to discuss time/space complexity of these approaches, and what issues we may face.
+
+---
+
+Q: What are the three primary Fielding constraints? (Bonus if you can say who Fielding is!)
+
+---
+
+Q: What sub-constraints make up a Uniform Interface
+
+---
+
+Q: Give a high level overview of what an object's prototype represents
+
+---
+
+Q: What are the differences between the `__proto__` and prototype attributes?
+
+---
+
+Q: What happens when we do or don't explicity set an object's prototype?
+
+---
+
+Q: What is an object's default prototype?
+
+---
+
+Q: What are the valid values for an object's prototype?
+
+---
